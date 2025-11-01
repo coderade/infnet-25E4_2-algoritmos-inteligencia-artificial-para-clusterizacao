@@ -1,0 +1,13 @@
+# Bibliotecas para análise de dados e clusterização
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.1.0
+scipy>=1.9.0
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Bibliotecas opcionais para melhor visualização
+plotly>=5.0.0
+ipywidgets>=7.6.0
